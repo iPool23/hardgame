@@ -35,7 +35,7 @@ Un juego de habilidad y supervivencia inspirado en el estilo visual de **Squid G
 ## 📸 Capturas de Pantalla
 
 ### Panel de Inicio
-![Panel de Inicio](./src/hardgame/img/inicio.png)
+![Panel de Inicio](./src/hardgame/img/Inicio.png)
 *Menú principal con diseño inspirado en Squid Game*
 
 ### Gameplay
